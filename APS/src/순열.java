@@ -4,7 +4,7 @@ import java.util.Arrays;
  * @author 진민호
  *
  */
-public class 좋은아침 {
+public class 순열 {
 	
 	static char[] chars = {'a', 'b', 'c', 'd'};
 
