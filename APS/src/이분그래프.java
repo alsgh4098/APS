@@ -39,7 +39,7 @@ public class 이분그래프{
 				String str2 = st.nextToken();
 
 				if (map.containsKey(str1) && map.containsKey(str2)) {
-
+					
 				} else if (map.containsKey(str1)) {
 					map.put(str2, idx++);
 				} else if (map.containsKey(str2)) {
